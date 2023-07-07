@@ -1,16 +1,9 @@
-# DigiTeller
-
-Русская версия этого документа находится [здесь.](https://github.com/sberbank-ai/DigiTales/blob/main/Readme_Rus.md)
+# Ertek.AI
 
 Artificial intelligence technologies are gaining more and more popularity in the creative industries: they are used to write music, create unique art objects, and much more.
 We want to invite you to create a solution that will help you create a video story. Algorithms of this kind greatly facilitate or even completely automate the time-consuming process of creating new stories and their visualization.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/CH8hfuGudVA/0.jpg)](http://www.youtube.com/watch?v=CH8hfuGudVA "Digi Teller baseline test")
-
-
-
-
-We provide a baseline consisting of google collab notebooks:
+Baseline consisting of google collab notebooks:
 
 
 [Part 1](https://colab.research.google.com/drive/1mk7U9jG8w8TmByEB9VKjt5Z7h_DVIOz2?usp=sharing)
@@ -26,7 +19,7 @@ datset for training
 
   * [chords](https://drive.google.com/file/d/1Ak2H78XW31oNEtM3m2jL1UJZ5fFpU3tt/view?usp=sharing)
 
-Trained on giant Ficbook dataset, description and data availible 
+Trained on giant Ficbook dataset, description, and data available 
 
 [Part 2](https://colab.research.google.com/drive/1BzrSLZfXsMrxc1c3A9tp-_73qo-z2qjU?usp=sharing)
 
@@ -44,7 +37,7 @@ Silero V2 features, only Ksenya
 
 [MT CLIP + VQGAN](https://colab.research.google.com/drive/1MpVMCq2G_LIeqwOvWy-ECg-j_M3VLCbv?usp=sharing)
 
-[Half Pression Diffusuion Model](https://colab.research.google.com/drive/18YfYqAMvUul6cn0I949F8d0gTcZW-L4q?usp=sharing)
+[Half Pression Diffusion Model](https://colab.research.google.com/drive/18YfYqAMvUul6cn0I949F8d0gTcZW-L4q?usp=sharing)
 Possible to run on T4 and K80 gpu
 
 Implemented new features such as Part od Speech filtering
